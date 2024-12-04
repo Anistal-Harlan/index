@@ -1,7 +1,7 @@
 body {
   display: block;
   margin: 8px;
-  background: linear-gradient(rgb(0, 0, 0), rgb(48, 48, 48));
+  background: rgb(60, 60, 60);
   color: white;
   height: 100vh;
 }
